@@ -1,0 +1,14 @@
+# Node things
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Yarn Things
+yarn.lock
+yarn-error.log
+yarn-debug.log*
+yarn-error.log*
+
+# Others
+.vscode
+.DS_Store
